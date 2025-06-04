@@ -1,0 +1,53 @@
+Operating system files
+
+.DS_Store Thumbs.db
+
+Editor and IDE files
+
+.vscode/ .idea/ *.suo .ntvs*.njsproj *.sln *.swp
+
+Build and dependency directories
+
+node_modules/ dist/ build/ out/ bin/ obj/
+
+Environment and configuration files
+
+.env .env.local .env.development.local .env.test.local .env.production.local *.env
+
+Logs
+
+.log logs/ npm-debug.logyarn-debug.log* yarn-error.log*
+
+Dependency lock files (optional, include if you want to track them)
+
+package-lock.json
+
+yarn.lock
+
+Python-specific
+
+pycache/ *.py[cod] *.pyc .Python venv/ env/ pip-log.txt pip-delete-this-directory.txt
+
+Java-specific
+
+*.class *.jar *.war *.ear target/
+
+Sensitive or temporary files
+
+*.tmp *.bak *.swp *~
+
+Local database or cache files
+
+*.sqlite *.db .cache/ coverage/
+
+Documentation or miscellaneous
+
+docs/_build/ *.md.bak
+
+Project-specific directories to ignore
+
+cache/ models/ nltk_data/ output/ venv/
+
+Project-specific files to ignore
+
+0.43.0
