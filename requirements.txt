@@ -1,0 +1,15 @@
+gradio>=5.32.0
+torch>=2.0.0
+torchaudio>=2.0.0
+pydub>=0.25.0
+nltk==3.8.1
+scipy>=1.10.0
+numpy>=1.21.0
+pathlib
+pyspellchecker
+requests>=2.25.0
+transformers>=4.44.2
+accelerate>=0.26.0
+huggingface-hub>=0.16.0
+tqdm>=4.62.0
+chatterbox-tts 
