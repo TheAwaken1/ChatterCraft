@@ -196,4 +196,4 @@ ChatterCraft is an experimental tool crafted for creators, story tellers, and TT
 
 📎 License
 
-AIraoke is licensed under the MIT License. See the LICENSE file for details. This project incorporates code from Python-Lyric-Transcriber, which is also licensed under the MIT License.
+Licensed under the MIT License. See the LICENSE file for details. This project incorporates code from Python-Lyric-Transcriber, which is also licensed under the MIT License.
